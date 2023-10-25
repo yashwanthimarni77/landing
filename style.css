@@ -1,0 +1,43 @@
+
+.nav-image {
+    height: 35px;
+    width: 100px;
+}
+
+.bg-container-section {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+
+.color {
+    color: #FFDDA9;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+
+.button {
+    height: 50px;
+    width: 170px;
+    background-color: #FFDDA9;
+    color: black;
+    border-radius: 20px;
+    border-width: 0px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
